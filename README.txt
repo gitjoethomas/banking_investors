@@ -1,0 +1,1 @@
+This model assesses clients of a bank, and uses a decision tree to identify the most likely clients to invest a long term loan with the bank
